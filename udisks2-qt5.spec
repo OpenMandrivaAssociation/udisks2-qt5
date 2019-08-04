@@ -3,7 +3,7 @@
 %define develname	%mklibname %{name} -d
 
 Name:		udisks2-qt5
-Version:	0.0.2
+Version:	5.0.0
 Release:	1
 Summary:	Package provides Qt5 binding for udisks2
 Group:		System/Libraries
