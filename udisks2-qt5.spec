@@ -6,7 +6,7 @@
 
 Name:		udisks2-qt5
 Version:	5.0.6
-Release:	1
+Release:	2
 Summary:	Package provides Qt5 binding for udisks2
 Group:		System/Libraries
 License:	GPLv3+
